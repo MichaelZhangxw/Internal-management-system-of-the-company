@@ -51,6 +51,10 @@ const Menu = () => {
         {
           label: '費用承認',
           icon: 'pi pi-fw pi-check'
+        },
+        {
+          label: '経費管理',
+          icon: 'pi pi-fw pi-check'
         }
       ]
     }
